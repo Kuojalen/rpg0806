@@ -1,0 +1,14 @@
+[
+null,
+{"id":1,"expanded":true,"name":"普通城鎮","order":2,"parentId":0,"scrollX":1154,"scrollY":825},
+{"id":2,"expanded":false,"name":"世界 1","order":1,"parentId":0,"scrollX":5768,"scrollY":4175},
+{"id":3,"expanded":false,"name":"石窟","order":8,"parentId":0,"scrollX":1110,"scrollY":825},
+{"id":4,"expanded":false,"name":"旅館 1F","order":3,"parentId":1,"scrollX":766,"scrollY":841},
+{"id":5,"expanded":false,"name":"旅館 2F","order":4,"parentId":1,"scrollX":766,"scrollY":841},
+{"id":6,"expanded":false,"name":"道具商店","order":5,"parentId":1,"scrollX":766,"scrollY":841},
+{"id":7,"expanded":false,"name":"盔甲商店","order":6,"parentId":1,"scrollX":548.4,"scrollY":495},
+{"id":8,"expanded":false,"name":"武器商店","order":7,"parentId":1,"scrollX":766,"scrollY":841},
+{"id":9,"expanded":true,"name":"漂浮城市","order":9,"parentId":0,"scrollX":1110,"scrollY":1575},
+{"id":10,"expanded":false,"name":"惡魔城堡 3F","order":10,"parentId":9,"scrollX":1106,"scrollY":825},
+{"id":11,"expanded":false,"name":"Ending","order":11,"parentId":0,"scrollX":766,"scrollY":841}
+]
